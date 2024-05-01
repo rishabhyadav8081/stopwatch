@@ -52,6 +52,5 @@ const handlereset = ()=>{
     </div>
   );
 }
-//  modification
 
 export default App;
